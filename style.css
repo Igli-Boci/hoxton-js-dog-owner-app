@@ -22,7 +22,7 @@ body {
 
 img {
   display: block;
-  max-width: 100%;
+  max-width: 50%;
   object-fit: cover;
   margin: 0 auto;
 }
@@ -148,7 +148,7 @@ img {
   background-color: var(--green);
 }
 
-.form > button {
+.form>button {
   width: 30%;
   justify-self: center;
   margin: 1rem 0;
